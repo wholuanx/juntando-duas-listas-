@@ -1,0 +1,7 @@
+print ("-------- Juntando duas listas --------")
+
+lista1 = [2,3,5]
+lista2 = [6,9,0]
+concatenando = lista1 + lista2
+
+print(concatenando) 
